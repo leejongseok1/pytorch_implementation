@@ -2,4 +2,4 @@
 
 - VGGNet
 - AlexNet
-- GoogLeNet
+- [GoogLeNet](https://github.com/leejongseok1/pytorch_implementation/blob/main/googlenet.ipynb)
